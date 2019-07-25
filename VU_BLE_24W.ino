@@ -12,7 +12,7 @@
               : hierzu gibt es die App "Cinelightsvu.apk"
  Arduino      : ATMEGA2560
  Modul ID     : auf grüner Platte im Wohnzimmer
- Datum        : 22.07.2019 8:00
+ Datum        : 24.07.2019 20:00
  Schaltung in : wird noch erstellt
  Hardwareinfo : Nur mit MEGA2560 (Speicherprobleme mit UNO)
  Status       : Ok in Arduino
